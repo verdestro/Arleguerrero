@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://verdestro.github.io/Arleguerrero/sitemap.xml
+Sitemap: https://verdestro.github.io/Arleguerrero/https___verdestro.github.io_Arleguerrero
