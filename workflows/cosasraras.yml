@@ -1,4 +1,2 @@
-- name: Generate sitemap
-  uses: guimauvedigital/generate-sitemap@v1
-  with:
-    base_url: "https://verdestro.github.io/Arleguerrero/index.html " 
+- name: generate-sitemap
+  uses: cicirello/generate-sitemap@v1.10.4
