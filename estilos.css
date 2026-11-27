@@ -1,0 +1,15 @@
+body{
+    background-color:crimson;
+}
+.titulo{
+    width:90%;
+    padding-left:5%;
+    padding-right:5%;
+    margin:0%;
+    background-color:darkred;
+}
+.Subtitulo{
+    color:darkgreen;
+    width:fit-content;
+    background-color:indianred;
+}
